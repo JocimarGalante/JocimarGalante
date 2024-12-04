@@ -21,5 +21,7 @@ Ferramentas de Desenvolvimento
 <p> <img alt="GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=jocimargalante&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" /> <img alt="GitHub Top Languages" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocimargalante&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=8" /> </p>
 
 ### 📬 Entre em Contato
-E-mail: jocimar.galante@gmail.com
-LinkedIn: linkedin.com/in/jocimargalante
+<p>E-mail: jocimar.galante@gmail.com</p>
+
+"[LinkedIn](https://www.instagram.com/dev_em_dev/)"
+
