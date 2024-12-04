@@ -23,5 +23,5 @@ Ferramentas de Desenvolvimento
 ### 📬 Entre em Contato
 <p>E-mail: jocimar.galante@gmail.com</p>
 
-"[LinkedIn](https://www.instagram.com/dev_em_dev/)"
+[LinkedIn](linkedin.com/in/jocimargalante/)
 
